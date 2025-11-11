@@ -1,4 +1,4 @@
-👋 Hi I'm Elijah (hrZXv3)
+ HI I'M ELIJAH (hrZXv3)
 
 - Aspiring to specialize in: Social Engineering • Offensive Security (Red Team) • Fraud Simulation
 
