@@ -1,6 +1,6 @@
-👋 Hey — I'm Elijah
+👋 Hi I'm Elijah (hrZXv3)
 
-Aspiring to specialize in: Social Engineering • Offensive Security (Red Team) • Fraud Simulation
+- Aspiring to specialize in: Social Engineering • Offensive Security (Red Team) • Fraud Simulation
 
 🚀 About Me
 
@@ -12,7 +12,7 @@ Aspiring to specialize in: Social Engineering • Offensive Security (Red Team) 
 
 🔒 Ethics & Legal Framework
 
-Everything I build or experiment with is educational and performed in controlled environments only. I never encourage or perform real-world fraud or social engineering against unauthorized targets. Offensive security without formal written authorization is illegal. My work aims to improve awareness, defense, and detection.
+- Everything I build or experiment with is educational and performed in controlled environments only. I never encourage or perform real-world fraud or social engineering against unauthorized targets. Offensive security without formal written authorization is illegal. My work aims to improve awareness, defense, and detection.
 
 📌 Highlighted Projects 
 
