@@ -35,4 +35,4 @@
 
 - LinkedIn: https://www.linkedin.com/in/elijahcal/
 
-- Portfolio: https://hrzxv3.github.io/Portefolio-hrZXv3/ 
+- Portfolio: https://hrzxv3.github.io/Portfolio-hrZXv3/ 
