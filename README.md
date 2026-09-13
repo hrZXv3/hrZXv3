@@ -19,9 +19,9 @@ Cases I've worked through include phishing infrastructure tracing, malicious dro
 
 ## Tools & Techniques
 
-OSINT / CTI: urlscan.io, VirusTotal, ANY.RUN, Hunt.io, ThreatFox, Malpedia, MITRE ATT&CK, Shodan, Whois, DNSDumpster, dnstwist, Wayback Machine, PhishTank
-Analysis: REMnux, Ghidra, Wireshark, Procmon, Sigma/YARA
-Core skills: Python, C++, x86-64 assembly, Linux, networking, Active Directory, Windows Server, PowerShell, digital forensics
+- OSINT / CTI: urlscan.io, VirusTotal, ANY.RUN, Hunt.io, ThreatFox, Malpedia, MITRE ATT&CK, Shodan, Whois, DNSDumpster, dnstwist, Wayback Machine, PhishTank
+- Analysis: REMnux, Ghidra, Wireshark, Procmon, Sigma/YARA
+- Core skills: Python, C++, x86-64 assembly, Linux, networking, Active Directory, Windows Server, PowerShell, digital forensics
 
 ## Ethics
 
@@ -29,5 +29,5 @@ All investigative work uses public, safe evidence (hashes, captures, metadata) â
 
 ## Contact
 
-LinkedIn: linkedin.com/in/elijahcal
-Portfolio: hrzxv3.github.io/Elijah-Calonnec/
+- LinkedIn: [linkedin.com/in/elijahcal](https://www.linkedin.com/in/elijahcal/)
+- Portfolio: [hrzxv3.github.io/Elijah-Calonnec](https://hrzxv3.github.io/Elijah-Calonnec/)
